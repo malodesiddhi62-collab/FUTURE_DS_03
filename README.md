@@ -71,7 +71,7 @@ The dataset represents a simulated e-commerce funnel and includes:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard(2).png)
+![Dashboard](funnel_dashboard.png)
 
 ---
 
@@ -80,7 +80,7 @@ marketing-funnel-analysis/
 │
 ├── ecommerce_with_channel.xlsx
 ├── funnel_dashboard.pbix
-├── dashboard(2).png
+├── funnel_dashboard.png
 └── README.md
 
 ---
