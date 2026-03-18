@@ -69,9 +69,8 @@ The dataset represents a simulated e-commerce funnel and includes:
 - Microsoft Excel  
 
 ---
-
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard(2).png)
 
 ---
 
