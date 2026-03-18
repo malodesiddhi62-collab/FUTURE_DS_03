@@ -3,14 +3,14 @@
 ## 🔍 Overview
 This project analyzes a marketing funnel to understand how users move from visitors → carts → customers and identifies key drop-off points impacting conversion rates.
 
-The goal is to transform raw data into actionable insights that help improve marketing performance and revenue.
+The objective is to transform raw data into actionable insights that help improve marketing performance and drive revenue growth.
 
 ---
 
 ## 🎯 Objectives
 - Analyze user behavior across funnel stages  
 - Measure conversion rates  
-- Identify drop-off points  
+- Identify major drop-off points  
 - Compare performance across marketing channels  
 - Provide data-driven recommendations  
 
@@ -36,7 +36,7 @@ The dataset represents a simulated e-commerce funnel and includes:
 
 ### 🔹 Funnel Analysis
 - Visual representation of user journey (Views → Carts → Purchases)  
-- Identification of major drop-off stage  
+- Identification of key drop-off stage  
 
 ### 🔹 Channel Performance
 - Customers by Channel  
@@ -49,18 +49,18 @@ The dataset represents a simulated e-commerce funnel and includes:
 ---
 
 ## 🔍 Key Insights
-- ~50% drop-off at the checkout stage  
-- Organic and Social Media drive the highest number of customers  
-- Conversion rates are relatively consistent across channels  
-- Revenue contribution is evenly distributed across channels  
+- Approximately 50% drop-off occurs at the checkout stage  
+- Organic and Social Media channels generate the highest number of customers  
+- Conversion rates are relatively consistent across all channels  
+- Revenue contribution is evenly distributed, with slight variation across channels  
 
 ---
 
 ## 💡 Recommendations
 - Optimize checkout process to reduce cart abandonment  
 - Invest more in high-performing channels (Organic & Social Media)  
-- Improve targeting for lower-performing channels  
-- Use retargeting strategies for users who abandon carts  
+- Improve targeting for underperforming channels  
+- Implement retargeting strategies for users who abandon carts  
 
 ---
 
@@ -69,6 +69,7 @@ The dataset represents a simulated e-commerce funnel and includes:
 - Microsoft Excel  
 
 ---
+
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard(2).png)
 
@@ -79,7 +80,7 @@ marketing-funnel-analysis/
 │
 ├── ecommerce_with_channel.xlsx
 ├── funnel_dashboard.pbix
-├── dashboard.png
+├── dashboard(2).png
 └── README.md
 
 ---
@@ -92,8 +93,8 @@ marketing-funnel-analysis/
 
 ---
 
-## Author
-Siddhi Malode 
+## 👤 Author
+Siddhi Malode
 Aspiring Data Analyst | Power BI Enthusiast  
 
 ---
